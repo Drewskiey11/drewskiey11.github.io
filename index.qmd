@@ -1,0 +1,19 @@
+---
+title: "Andrew Ingraham"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Drewskiey11/M10-Assigment#
+---
+
+Andrew Ingraham is a undergraduate student from Cal Poly Pomona. I am looking to land a marketing job for one of three MLB teams. These teams include the Angels, Dodgers, and Padres. 
+
+## Education
+
+University of Cal Poly Pomona, Pomona | Pomona, CA Undergraduate in Business | Aug 2022 - May 2026
+
+## Skills
+My skills that I have learned have been vast. I can work well with basic applications. These include all microsoft applications like excel. I have also had the chance to grasp coding applications such as R and Python. 
